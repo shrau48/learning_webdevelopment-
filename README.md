@@ -1,2 +1,3 @@
 # learning_webdevelopment-
-Learning all frontend and backend technologies
+Learning frontend and backend technologies (19/12/2022)
+
